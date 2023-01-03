@@ -1,5 +1,5 @@
 
-## Hi there, welcome to Coding With Deni 👋 and Keep Learning 🚀
+## Welcome to Coding With Deni 👋 and Keep Learning 🚀
 
 
 
