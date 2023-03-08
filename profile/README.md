@@ -16,6 +16,14 @@ My Name is **Deni Setiawan**, I am **Backend Dev & System Analyst** at http://ne
 | learn springboot export to pdf and excel |https://github.com/denixetiawan/learn-springboot-export-pdf-excel |
 | learn springboot liquibase | https://github.com/denixetiawan/learn-springboot-liquibase |
 | leaen springboot database migration multi schema | https://github.com/denixetiawan/learn-springboot-liquibase-postgres-multischema |
+| learn springboot sonarcube for code review  | https://github.com/codermate/learn_springboot_sonarcube_codereview | 
+| learn springboot websocket | https://github.com/codermate/learn_springboot_websocket | 
+| learn springboot integration to rabbitmq | https://github.com/codermate/learn-springboot-rabbitmq | 
+| learn springboot http to https | https://github.com/codermate/learn-springboot-https-ssl | 
+| learn springboot enable cors | https://github.com/codermate/learn-springboot-cors | 
+| learn springboot with basic security | https://github.com/codermate/learn-springboot-security-basic | 
+| learn springboot email sender Gmail | https://github.com/codermate/learn-springboot-email | 
+| learn springboot logback| https://github.com/codermate/learn-springboot-logback | 
 
 
 ### Go
