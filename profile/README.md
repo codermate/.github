@@ -3,10 +3,10 @@ My Name is **Deni Setiawan**, I am **Backend Dev & System Analyst** at http://ne
 **Loves writing and coding enthusiast** who always **keeps learning** about software engineering skills for make me **keep an update and strenghts skills** 🚀
 
 
-[Springboot](https://github.com/codermate/.github/blob/main/profile/README.md#springboot)
-[Go](https://github.com/codermate/.github/blob/main/profile/README.md#Go)
-[React](https://github.com/codermate/.github/blob/main/profile/README.md#Go)
-[Android](https://github.com/codermate/.github/blob/main/profile/README.md#Android)
+- [Springboot](https://github.com/codermate/.github/blob/main/profile/README.md#springboot)
+- [Go](https://github.com/codermate/.github/blob/main/profile/README.md#Go)
+- [React](https://github.com/codermate/.github/blob/main/profile/README.md#Go)
+- [Android](https://github.com/codermate/.github/blob/main/profile/README.md#Android)
 
 
 
