@@ -7,7 +7,7 @@ My Name is **Deni Setiawan**, I am **Backend Dev & System Analyst** at http://ne
 |------------------|--------------|
 | Github | https://github.com/denixetiawan |
 | Medium | https://deni-setiawan.medium.com/ |
-| LinkInd | https://linkind.com/denisetiawan |
+| LinkInd |  |
 
 
 
