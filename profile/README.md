@@ -1,6 +1,14 @@
-## Welcome to **CoderMate** Organization, 
+## Welcome to **CoderMate**  
 My Name is **Deni Setiawan**, I am **Backend Dev & System Analyst** at http://nexsoft.co.id/ from Indonesia.
 **Loves writing and coding enthusiast** who always **keeps learning** about software engineering skills for make me **keep an update and strenghts skills** 🚀
+
+### Personal Account
+| Profile     | URL                                                          | 
+|------------------|--------------|
+| Github | https://github.com/denixetiawan |
+| Medium | https://deni-setiawan.medium.com/ |
+| LinkIn | https://linkind.com/denisetiawan |
+
 
 
 ## Overviews 
