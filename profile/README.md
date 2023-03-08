@@ -3,14 +3,16 @@ My Name is **Deni Setiawan**, I am **Backend Dev & System Analyst** at http://ne
 **Loves writing and coding enthusiast** who always **keeps learning** about software engineering skills for make me **keep an update and strenghts skills** 🚀
 
 
+## Overviews 
 - [Springboot](https://github.com/codermate/.github/blob/main/profile/README.md#springboot)
 - [Go](https://github.com/codermate/.github/blob/main/profile/README.md#Go)
-- [React](https://github.com/codermate/.github/blob/main/profile/README.md#Go)
+- [DevOps](https://github.com/codermate/.github/blob/main/profile/README.md#DevOps)
+- [React](https://github.com/codermate/.github/blob/main/profile/README.md#react)
 - [Android](https://github.com/codermate/.github/blob/main/profile/README.md#Android)
 
 
 
-### Springboot 
+## Springboot 
 | Repository     | URL Repository                                                          | 
 |------------------|--------------|
 | learn springboot mysql | https://github.com/denixetiawan/learn-springboot-mysql |
@@ -32,26 +34,27 @@ My Name is **Deni Setiawan**, I am **Backend Dev & System Analyst** at http://ne
 | learn springboot logback| https://github.com/codermate/learn-springboot-logback | 
 
 
-### Go
+## Go
 | Repository     | URL Repository                                                          | 
 |------------------|--------------|
 | learn springboot mysql | https://github.com/denixetiawan/learn-go-mysql |
 
 
-### DevOps
+## DevOps
 | Repository     | URL Repository                                                          | 
 |------------------|--------------|
 | learn dockerize springboot app | https://github.com/denixetiawan/learn-devops-dockerize-springboot |
 | learn jenkins for deploy springboot app to docker container | https://github.com/denixetiawan/learn-devops-jenkins-deploy-docker |
 
-### React
+
+## React
 | Repository     | URL Repository                                                          | 
 |------------------|--------------|
 | learn react i8n | https://github.com/denixetiawan/learn-react-i18n |
 | learn react redux | https://github.com/denixetiawan/learn-react-redux |
 
 
-### Android
+## Android
 | Repository     | URL Repository                                                          | 
 |------------------|--------------|
 | learn android activity | https://github.com/denixetiawan/learn-android-activity |
