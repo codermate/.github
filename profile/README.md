@@ -17,8 +17,8 @@ My Name is **Deni Setiawan**, I am **Backend Dev & System Analyst** at http://ne
 - [DevOps](https://github.com/codermate/.github/blob/main/profile/README.md#DevOps)
 - [React](https://github.com/codermate/.github/blob/main/profile/README.md#react)
 - [Android](https://github.com/codermate/.github/blob/main/profile/README.md#Android)
-- [System Analyst](https://github.com/codermate/.github/blob/main/profile/README.md#SystemAnalyst)
-- [Software Architecture](https://github.com/codermate/.github/blob/main/profile/README.md#SoftwareArchitecture)
+- [System Analyst](https://github.com/codermate/.github/blob/main/profile/README.md#System_Analyst)
+- [Software Architecture](https://github.com/codermate/.github/blob/main/profile/README.md#Software_Architecture)
 
 
 
@@ -83,7 +83,7 @@ My Name is **Deni Setiawan**, I am **Backend Dev & System Analyst** at http://ne
 | . . . | . . . |
 
 
-## System Analyst
+## System_Analyst
 | Repository     | URL Repository | 
 |------------------|--------------|
 | learn draw io | https://github.com/denitiawan/learn-sa-drawio/ |
@@ -96,7 +96,7 @@ My Name is **Deni Setiawan**, I am **Backend Dev & System Analyst** at http://ne
 | learn FSD | https://github.com/denitiawan/learn-sa-fsd |
 | . . . | . . . |
 
-## Software Architecture
+## Software_Architecture
 | Repository     | URL Repository | 
 |------------------|--------------|
 | learn springboot Monolith | https://github.com/denitiawan/learn-architect-springboot-monolith |
