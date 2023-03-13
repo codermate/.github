@@ -17,8 +17,8 @@ My Name is **Deni Setiawan**, I am **Backend Dev & System Analyst** at http://ne
 - [DevOps](https://github.com/codermate/.github/blob/main/profile/README.md#DevOps)
 - [React](https://github.com/codermate/.github/blob/main/profile/README.md#react)
 - [Android](https://github.com/codermate/.github/blob/main/profile/README.md#Android)
-- [System Analyst](https://github.com/codermate/.github/blob/main/profile/README.md#System Analyst)
-- [Software Architecture](https://github.com/codermate/.github/blob/main/profile/README.md#Software Architecture)
+- [SystemAnalyst](https://github.com/codermate/.github/blob/main/profile/README.md#System Analyst)
+- [SoftwareArchitecture](https://github.com/codermate/.github/blob/main/profile/README.md#Software Architecture)
 
 
 
