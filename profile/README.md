@@ -39,7 +39,7 @@ My Name is **Deni Setiawan**, I am **Backend Dev & System Analyst** at http://ne
 | learn springboot integration to rabbitmq | https://github.com/denitiawan/learn-springboot-rabbitmq | 
 | learn springboot http to https | https://github.com/denitiawan/learn-springboot-https-ssl | 
 | learn springboot enable cors | https://github.com/denitiawan/learn-springboot-cors | 
-| learn springboot with basic security | https://github.com/denitiawan/learn-springboot-security-basic | 
+| learn springboot basic security | https://github.com/denitiawan/learn-springboot-security-basic | 
 | learn springboot email sender Gmail | https://github.com/denitiawan/learn-springboot-email | 
 | learn springboot logback| https://github.com/denitiawan/learn-springboot-logback | 
 | . . . | . . . |
@@ -48,7 +48,7 @@ My Name is **Deni Setiawan**, I am **Backend Dev & System Analyst** at http://ne
 ## Go
 | Repository     | URL Repository | 
 |------------------|--------------|
-| learn springboot mysql | https://github.com/denitiawan/learn-go-mysql |
+| learn go mysql | https://github.com/denitiawan/learn-go-mysql |
 | . . . | . . . |
 
 
@@ -80,6 +80,9 @@ My Name is **Deni Setiawan**, I am **Backend Dev & System Analyst** at http://ne
 | learn android mpv | https://github.com/denitiawan/learn-android |
 | learn android fragment | https://github.com/denitiawan/learn-android-fragment |
 | learn android adapter | https://github.com/denitiawan/learn-android-adapter |
+| learn android shared preferences | https://github.com/denitiawan/learn-android-shared-preferences |
+| learn android room sqlite | https://github.com/denitiawan/learn-android-room-sqlite |
+| learn android room sqlite | https://github.com/denitiawan/learn-android-room-sqlite |
 | . . . | . . . |
 
 
@@ -92,6 +95,7 @@ My Name is **Deni Setiawan**, I am **Backend Dev & System Analyst** at http://ne
 | learn Squence | https://github.com/denitiawan/learn-sa-squence |
 | learn ERD | https://github.com/denitiawan/learn-sa-erd |
 | learn C4 Model Software Architecture | https://github.com/denitiawan/learn-sa-c4 |
+| learn low level design | https://github.com/denitiawan/learn-sa-lld |
 | learn TSD | https://github.com/denitiawan/learn-sa-tsd |
 | learn FSD | https://github.com/denitiawan/learn-sa-fsd |
 | . . . | . . . |
@@ -102,7 +106,7 @@ My Name is **Deni Setiawan**, I am **Backend Dev & System Analyst** at http://ne
 | learn springboot Monolith | https://github.com/denitiawan/learn-architect-springboot-monolith |
 | learn springboot modular Monolith | https://github.com/denitiawan/learn-architect-springboot-modular-monolith |
 | learn springboot microservices | https://github.com/denitiawan/learn-architect-springboot-microservices |
-| learn springboot microservices | https://github.com/denitiawan/learn-architect-springboot-microservices |
+| learn serverless | https://github.com/denitiawan/learn-architect-springboot-serverless |
 | . . . | . . . |
 
 
