@@ -17,11 +17,12 @@ My Name is **Deni Setiawan**, I am **Backend Dev & System Analyst** at http://ne
 - [DevOps](https://github.com/codermate/.github/blob/main/profile/README.md#DevOps)
 - [React](https://github.com/codermate/.github/blob/main/profile/README.md#react)
 - [Android](https://github.com/codermate/.github/blob/main/profile/README.md#Android)
+- [System Analyst](https://github.com/codermate/.github/blob/main/profile/README.md#System Analyst)
 
 
 
 ## Springboot 
-| Repository     | URL Repository                                                          | 
+| Repository     | URL Repository | 
 |------------------|--------------|
 | learn springboot mysql | https://github.com/denitiawan/learn-springboot-mysql |
 | learn springboot redis | https://github.com/denitiawan/learn-springboot-redis |
@@ -43,32 +44,66 @@ My Name is **Deni Setiawan**, I am **Backend Dev & System Analyst** at http://ne
 
 
 ## Go
-| Repository     | URL Repository                                                          | 
+| Repository     | URL Repository | 
 |------------------|--------------|
 | learn springboot mysql | https://github.com/denitiawan/learn-go-mysql |
 
 
 ## DevOps
-| Repository     | URL Repository                                                          | 
+| Repository     | URL Repository | 
 |------------------|--------------|
+| learn dockerize react app | https://github.com/denitiawan/learn-devops-dockerize-react |
 | learn dockerize springboot app | https://github.com/denitiawan/learn-devops-dockerize-springboot |
-| learn jenkins for deploy springboot app to docker container | https://github.com/denitiawan/learn-devops-jenkins-deploy-docker |
+| learn prometheus & grafana monitoring on springboot app   | https://github.com/denitiawan/learn-devops-prografana-springboot |
+| learn jenkins CI/CD for deploy springboot app to docker container | https://github.com/denitiawan/learn-devops-jenkins-deploy-docker |
+| learn kubernetes clustering  | https://github.com/denitiawan/learn-devops-kubernets-clustering |
+| learn kubernetes scalling  | https://github.com/denitiawan/learn-devops-kubernets-scalling |
+
+
 
 
 ## React
-| Repository     | URL Repository                                                          | 
+| Repository     | URL Repository | 
 |------------------|--------------|
 | learn react i8n | https://github.com/denitiawan/learn-react-i18n |
 | learn react redux | https://github.com/denitiawan/learn-react-redux |
+| ... | ... |
 
 
 ## Android
-| Repository     | URL Repository                                                          | 
+| Repository     | URL Repository | 
 |------------------|--------------|
 | learn android activity | https://github.com/denitiawan/learn-android-activity |
 | learn android mpv | https://github.com/denitiawan/learn-android |
 | learn android fragment | https://github.com/denitiawan/learn-android-fragment |
 | learn android adapter | https://github.com/denitiawan/learn-android-adapter |
+| ... | ... |
+
+
+## System Analyst
+| Repository     | URL Repository | 
+|------------------|--------------|
+| learn draw io | https://github.com/denitiawan/learn-sa-drawio/ |
+| learn plan uml | https://github.com/denitiawan/learn-sa-planuml |
+| learn Flow Chart | https://github.com/denitiawan/learn-sa-flowchart |
+| learn Squence | https://github.com/denitiawan/learn-sa-squence |
+| learn ERD | https://github.com/denitiawan/learn-sa-erd |
+| learn C4 Model Software Architecture | https://github.com/denitiawan/learn-sa-c4 |
+| learn TSD | https://github.com/denitiawan/learn-sa-tsd |
+| learn FSD | https://github.com/denitiawan/learn-sa-fsd |
+| ... | ... |
+
+## Software Architecture
+| Repository     | URL Repository | 
+|------------------|--------------|
+| learn springboot Monolith | https://github.com/denitiawan/learn-architect-springboot-monolith |
+| learn springboot modular Monolith | https://github.com/denitiawan/learn-architect-springboot-modular-monolith |
+| learn springboot microservices | https://github.com/denitiawan/learn-architect-springboot-microservices |
+| learn springboot microservices | https://github.com/denitiawan/learn-architect-springboot-microservices |
+| ... | ... |
+
+
+
 
 
 
