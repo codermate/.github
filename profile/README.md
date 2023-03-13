@@ -18,6 +18,7 @@ My Name is **Deni Setiawan**, I am **Backend Dev & System Analyst** at http://ne
 - [React](https://github.com/codermate/.github/blob/main/profile/README.md#react)
 - [Android](https://github.com/codermate/.github/blob/main/profile/README.md#Android)
 - [System Analyst](https://github.com/codermate/.github/blob/main/profile/README.md#System Analyst)
+- [Software Architecture](https://github.com/codermate/.github/blob/main/profile/README.md#Software Architecture)
 
 
 
@@ -41,12 +42,14 @@ My Name is **Deni Setiawan**, I am **Backend Dev & System Analyst** at http://ne
 | learn springboot with basic security | https://github.com/denitiawan/learn-springboot-security-basic | 
 | learn springboot email sender Gmail | https://github.com/denitiawan/learn-springboot-email | 
 | learn springboot logback| https://github.com/denitiawan/learn-springboot-logback | 
+| . . . | . . . |
 
 
 ## Go
 | Repository     | URL Repository | 
 |------------------|--------------|
 | learn springboot mysql | https://github.com/denitiawan/learn-go-mysql |
+| . . . | . . . |
 
 
 ## DevOps
@@ -58,7 +61,7 @@ My Name is **Deni Setiawan**, I am **Backend Dev & System Analyst** at http://ne
 | learn jenkins CI/CD for deploy springboot app to docker container | https://github.com/denitiawan/learn-devops-jenkins-deploy-docker |
 | learn kubernetes clustering  | https://github.com/denitiawan/learn-devops-kubernets-clustering |
 | learn kubernetes scalling  | https://github.com/denitiawan/learn-devops-kubernets-scalling |
-
+| . . . | . . . |
 
 
 
@@ -67,7 +70,7 @@ My Name is **Deni Setiawan**, I am **Backend Dev & System Analyst** at http://ne
 |------------------|--------------|
 | learn react i8n | https://github.com/denitiawan/learn-react-i18n |
 | learn react redux | https://github.com/denitiawan/learn-react-redux |
-| ... | ... |
+| . . . | . . . |
 
 
 ## Android
@@ -77,7 +80,7 @@ My Name is **Deni Setiawan**, I am **Backend Dev & System Analyst** at http://ne
 | learn android mpv | https://github.com/denitiawan/learn-android |
 | learn android fragment | https://github.com/denitiawan/learn-android-fragment |
 | learn android adapter | https://github.com/denitiawan/learn-android-adapter |
-| ... | ... |
+| . . . | . . . |
 
 
 ## System Analyst
@@ -91,7 +94,7 @@ My Name is **Deni Setiawan**, I am **Backend Dev & System Analyst** at http://ne
 | learn C4 Model Software Architecture | https://github.com/denitiawan/learn-sa-c4 |
 | learn TSD | https://github.com/denitiawan/learn-sa-tsd |
 | learn FSD | https://github.com/denitiawan/learn-sa-fsd |
-| ... | ... |
+| . . . | . . . |
 
 ## Software Architecture
 | Repository     | URL Repository | 
@@ -100,7 +103,7 @@ My Name is **Deni Setiawan**, I am **Backend Dev & System Analyst** at http://ne
 | learn springboot modular Monolith | https://github.com/denitiawan/learn-architect-springboot-modular-monolith |
 | learn springboot microservices | https://github.com/denitiawan/learn-architect-springboot-microservices |
 | learn springboot microservices | https://github.com/denitiawan/learn-architect-springboot-microservices |
-| ... | ... |
+| . . . | . . . |
 
 
 
