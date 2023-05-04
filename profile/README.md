@@ -57,9 +57,9 @@ My Name is **Deni Setiawan**, I am **Backend Dev & System Analyst** at http://ne
 |------------------|--------------|
 | learn dockerize android app | https://github.com/dockerize-android-project |
 | learn dockerize react app | https://github.com/dockerize-react-project |
-| learn dockerize springboot microservices proeject | https://github.com/springboot-microservices-project |
+| learn dockerize springboot microservices project | https://github.com/springboot-microservices-project |
 | learn prometheus & grafana monitoring on springboot app   | https://github.com/springboot-microservices-project |
-| learn jenkins CI/CD for deploy springboot app to docker container | https://github.com/denitiawan/learn-devops-jenkins-deploy-docker |
+| learn jenkins CI/CD for deploy springboot app to docker container | https://github.com/denitiawan/learn-jenkins-deploy-springboot |
 | learn kubernetes clustering  | https://github.com/denitiawan/learn-devops-kubernets-clustering |
 | learn kubernetes scalling  | https://github.com/denitiawan/learn-devops-kubernets-scalling |
 | . . . | . . . |
