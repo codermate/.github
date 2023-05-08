@@ -1,16 +1,3 @@
-## Welcome
-My Name is **Deni Setiawan**, I am **Backend Dev & System Analyst** at http://nexsoft.co.id/ from Indonesia.
-**Loves writing and coding enthusiast** who always **keeps learning** about software engineering skills for make me **keep an update and strenghts skills** 🚀
-
-### About Me
-| Profile     | URL                                                          | 
-|------------------|--------------|
-| Github | https://github.com/denitiawan |
-| Medium | https://deni-setiawan.medium.com/ |
-
-
-
-
 ## Overviews 
 - [Springboot](https://github.com/codermate/.github/blob/main/profile/README.md#springboot)
 - [Go](https://github.com/codermate/.github/blob/main/profile/README.md#Go)
@@ -115,6 +102,14 @@ My Name is **Deni Setiawan**, I am **Backend Dev & System Analyst** at http://ne
 
 
 
+### About Me
+My Name is **Deni Setiawan**, I am **Backend Dev & System Analyst** at http://nexsoft.co.id/ from Indonesia.
+**Loves writing and coding enthusiast** who always **keeps learning** about software engineering skills for make me **keep an update and strenghts skills** 🚀
+
+| Profile     | URL                                                          | 
+|------------------|--------------|
+| Github | https://github.com/denitiawan |
+| Medium | https://deni-setiawan.medium.com/ |
 
 
 
